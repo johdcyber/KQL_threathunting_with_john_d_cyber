@@ -1,0 +1,1 @@
+# KQL_threathunting_with_john_d_cyber
